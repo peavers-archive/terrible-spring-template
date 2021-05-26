@@ -33,7 +33,7 @@ dependencies {
     
     // Apache
     implementation 'org.apache.commons:commons-lang3:3.12.0'
-    implementation 'commons-io:commons-io:2.8.0'
+    implementation 'commons-io:commons-io:2.9.0'
 
     // Development
     compileOnly 'org.projectlombok:lombok'
